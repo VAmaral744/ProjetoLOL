@@ -1,0 +1,11 @@
+com\projetolol\Champion.class
+com\projetolol\ItemStats.class
+com\projetolol\ChampionsLOL.class
+com\projetolol\ChampionAnalyzer.class
+com\projetolol\ChampionLoader.class
+com\projetolol\GoldEfficiency.class
+com\projetolol\ItemLoader.class
+com\projetolol\Main.class
+com\projetolol\BuildRecommender.class
+com\projetolol\Item.class
+com\projetolol\Itens.class
